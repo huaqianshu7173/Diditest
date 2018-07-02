@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kobalt-wrapper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/testng/kobalt/wrapper/kobalt-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

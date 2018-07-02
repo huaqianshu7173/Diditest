@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="test">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/testng/build/resources/test/with-different-name-testng-xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testng/build/resources/test/serviceloader.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testng/build/resources/test/withouttestngxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testng/build/resources/test/withtestngxml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
